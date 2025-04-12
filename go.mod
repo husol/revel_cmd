@@ -1,6 +1,6 @@
 module github.com/husol/revel_cmd
 
-go 1.22.10
+go 1.23
 
 retract (
 	v1.1.1
